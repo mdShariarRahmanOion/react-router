@@ -1,0 +1,8 @@
+.color{
+    color: rgb(221, 221, 238);
+    background-color: rgb(4, 46, 124);
+    border: none;
+    height: 40px;
+    width: 80px;
+    text-overflow: clip;
+}

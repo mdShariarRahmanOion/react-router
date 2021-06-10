@@ -1,0 +1,21 @@
+.teams{
+    
+    width: 100%;
+    height: 100px;
+    margin: auto;
+    padding: auto;
+    color:white;
+}
+.team-detail{
+    display: flex;
+    margin: auto;
+    padding: auto;
+    width: 50%;
+    height: 250px;
+    color:white;
+
+   
+}
+.bg{
+    background-color: #282c34;
+}
